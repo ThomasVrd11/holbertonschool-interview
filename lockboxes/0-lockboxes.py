@@ -7,7 +7,7 @@ and each box may contain keys to the other boxes.
 
 
 def canUnlockAll(boxes):
-    
+
     numberOfBoxes = len(boxes)
 
     # list to track if the boxes are opened or not
