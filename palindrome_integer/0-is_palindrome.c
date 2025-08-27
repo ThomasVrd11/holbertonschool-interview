@@ -1,12 +1,5 @@
 #include "palindrome.h"
 
-/**
- * is_palindrome - checks whether a given unsigned long is a palindrome
- * @n: the number to check
- *
- * Return: 1 if n is a palindrome, 0 otherwise
- */
-
 int is_palindrome(unsigned long n)
 {
 	unsigned long original = n;
